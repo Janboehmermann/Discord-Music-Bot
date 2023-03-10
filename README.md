@@ -1,1 +1,1 @@
-# Discord-Music-Bot
+This is a Python script that creates a Discord bot capable of playing music from either YouTube or Spotify. It uses the Discord API and modules such as youtube_dl and spotipy to download and play audio tracks from the specified sources. The bot is initialized with the command prefix of "!" and can be used by calling the play command followed by a valid YouTube or Spotify track URL.
